@@ -1,0 +1,30 @@
+{
+  "id": "io.hong.actual",
+  "title": "Actual Budget",
+  "author": "Acutal Authors",
+  "description": "file://DESCRIPTION.md",
+  "changelog": "file://CHANGELOG",
+  "postInstallMessage": "file://POSTINSTALL.md",
+  "icon": "file://logo.png",
+  "tagline": "A personal finances manager",
+  "version": "0.1.0",
+  "upstreamVersion": "23.12.1",
+  "website": "https://actualbudget.org/",
+  "documentationUrl": "https://actualbudget.org/docs/",
+  "healthCheckPath": "/health",
+  "httpPort": 5006,
+  "addons": {
+    "localstorage": {}
+  },
+  "tags": [
+    "actual", "finance", "accounting", "money", "invoices", "mint", "gnucash"
+  ],
+  "mediaLinks": [
+    "https://actualbudget.org/img/homepage/actual-main-budget.png",
+    "https://actualbudget.org/img/homepage/actual-main-transaction.png",
+    "https://actualbudget.org/img/homepage/actual-report-cash-flow.png"
+  ],
+  "minBoxVersion": "7.6.0",
+  "targetBoxVersion": "7.6.3",
+  "manifestVersion": 2
+}
