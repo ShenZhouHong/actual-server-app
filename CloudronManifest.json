@@ -1,7 +1,7 @@
 {
   "id": "io.hong.actual",
   "title": "Actual Budget",
-  "author": "Acutal Authors",
+  "author": "Actual Authors",
   "description": "file://DESCRIPTION.md",
   "changelog": "file://CHANGELOG",
   "postInstallMessage": "file://POSTINSTALL.md",
